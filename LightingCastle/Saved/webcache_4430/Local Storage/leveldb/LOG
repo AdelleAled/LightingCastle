@@ -1,2 +1,3 @@
-2025/02/26-12:19:39.583 54e0 Creating DB D:/Projets/LightingCastle/LightingCastle/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/02/26-12:19:39.662 54e0 Reusing MANIFEST D:/Projets/LightingCastle/LightingCastle/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/02/26-12:41:44.678 50f8 Reusing MANIFEST D:/Projets/LightingCastle/LightingCastle/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/02/26-12:41:44.679 50f8 Recovering log #3
+2025/02/26-12:41:44.680 50f8 Reusing old log D:/Projets/LightingCastle/LightingCastle/Saved/webcache_4430\Local Storage\leveldb/000003.log 
