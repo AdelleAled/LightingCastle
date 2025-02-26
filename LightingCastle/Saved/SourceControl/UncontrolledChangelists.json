@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projets/LightingCastle/LightingCastle/Content/Maps/Week_01_interior.umap",
+				"D:/Projets/LightingCastle/LightingCastle/Content/Maps/Week_02.umap",
+				"D:/Projets/LightingCastle/LightingCastle/Content/Maps/Week_01.umap"
+			]
+		}
+	]
+}
